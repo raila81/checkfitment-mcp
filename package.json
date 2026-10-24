@@ -1,0 +1,8 @@
+{
+  "name": "checkfitment-mcp",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Bolt pattern, lug torque and wheel specs by vehicle, plus wheel and tire fitment, tire size change, wheel spacer and gear ratio calculations from a sourced dataset.",
+  "homepage": "https://checkfitment.com/ai-assistants/",
+  "license": "UNLICENSED"
+}
